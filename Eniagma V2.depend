@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1420625410 source:c:\users\coste-maxime\documents\projects\eniagma v2\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1420626276 source:c:\users\coste-maxime\documents\projects\eniagma v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1420648302 source:c:\users\administrateur\desktop\eniagma v2\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1420648318 source:c:\users\administrateur\desktop\eniagma v2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1423038144 source:f:\eniagma v2\fonctions.c
+	"fonctions.h"
+
+1423045658 source:f:\eniagma v2\main.c
+	"main.h"
+
+1422985398 f:\eniagma v2\fonctions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1423038518 f:\eniagma v2\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1423038144 source:e:\eniagma v2\fonctions.c
+	"fonctions.h"
+
+1426576244 source:e:\eniagma v2\main.c
+	"main.h"
+
+1423038518 e:\eniagma v2\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1423038614 e:\eniagma v2\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1423037338 e:\eniagma v2\fonctions.c
+	"fonctions.h"
+
+1423038614 f:\eniagma v2\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1423034544 source:d:\lycée\tpe\eniagma v2\fonctions.c
+	"fonctions.h"
+
+1423034918 d:\lycée\tpe\eniagma v2\fonctions.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1480606128 source:d:\lycée\tpe\eniagma v2\main.c
+	"main.h"
+
+1477315558 d:\lycée\tpe\eniagma v2\main.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
